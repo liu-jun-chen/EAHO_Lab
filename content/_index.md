@@ -9,8 +9,8 @@ sections:
     content:
       title: |
         EAHO Research Lab @ University of South Florida
-      # image:
-      #   filename: welcome.jpg
+      image:
+        filename: welcome.png
       text: |
         <br>
         
