@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: EAHO Research Lab
 date: 2022-10-24
 type: landing
 
@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
+        EAHO Research Lab @ University of South Florida
+      # image:
+      #   filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Led by [Dr. Yi Sheng](https://liu-jun-chen.github.io/EAHO_Lab/author/yi-sheng/), the Efficient, Accurate and Holistic Optimization lab (formerly, the EAHO group) develops systems to bridge the practice gap between AI and domain applications, especially in achieving fair, energy-efficient, and time-efficient Medical AI Systems.
   
   - block: collection
     content:
