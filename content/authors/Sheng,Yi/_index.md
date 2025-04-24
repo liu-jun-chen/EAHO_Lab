@@ -64,6 +64,9 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: globe
+    icon_pack: fas
+    link: "https://shengy10.github.io/"
   - icon: envelope
     icon_pack: fas
     link: 'ysheng2@gmu.edu'
@@ -91,7 +94,7 @@ user_groups:
   - Faculty
 ---
 
-Yi Sheng is an assistant professor in the [Bellini College of Artificial Intelligence, Cybersecurity and Computing](https://www.usf.edu/ai-cybersecurity-computing/index.aspx) at the [University of South Florida](https://www.usf.edu/). Her research interests are: Design Automation (System) + Medical (Domain) + AI (Method) = Efficient Medical AI System. Her research agenda is anchored in advancing AI technology in the medical domain. I actively engage in Electronic Design Automation (EDA) for AI systems, medical image computing, and AI fairness. Her research goal is to bridge the practice gap between AI and domain applications, especially in achieving fair, energy-efficient, and time-efficient Medical AI Systems. She received a Ph.D. from [George Mason University](https://www.gmu.edu/).
+Yi Sheng is an assistant professor in the [Bellini College of Artificial Intelligence, Cybersecurity and Computing](https://www.usf.edu/ai-cybersecurity-computing/index.aspx) at the [University of South Florida](https://www.usf.edu/). Her research methodology is: Design Automation (System) + Medical (Domain) + AI (Method) = Efficient Medical AI System. Her research agenda is anchored in advancing AI technology in the medical domain. I actively engage in Electronic Design Automation (EDA) for AI systems, medical image computing, and AI fairness. Her research goal is to bridge the practice gap between AI and domain applications, especially in achieving fair, energy-efficient, and time-efficient Medical AI Systems. She received her Ph.D. from [George Mason University](https://www.gmu.edu/).
 
 **Honors and Awards** 
 - DAC Young Fellow (2023)
