@@ -9,7 +9,7 @@ sections:
     content:
       title: Courses
     text:
-    - "ECE285, Electric Circuit Analysis I (Undergraduate Level)"
-    - "ECE350, Embedded Systems and Hardware Interfaces (Undergraduate Level)"
-    - "ECE618, Hardware Accelerators for Machine Learning (Graduate Level)"
+        - "ECE285, Electric Circuit Analysis I (Undergraduate Level)"
+        - "ECE350, Embedded Systems and Hardware Interfaces (Undergraduate Level)"
+        - "ECE618, Hardware Accelerators for Machine Learning (Graduate Level)"
 ---
