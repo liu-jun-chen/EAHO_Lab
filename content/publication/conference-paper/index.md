@@ -32,16 +32,7 @@ publication_types: ['paper-conference']
 publication: In *Proceedings of the Great Lakes Symposium on VLSI 2024*
 publication_short: In *GLSVLSI ’24*
 
-abstract: Medical image reconstruction plays a pivotal role in early cancer detection, which can significantly enhance both the quality
-and longevity of a patient’s life through timely treatment. However, the extent to which current image reconstruction methods
-accurately represent all populations, and whether they underperform for certain groups, remains largely unexplored. In this work,
-we will examine the deep learning (DL)–based approach to image
-reconstruction and its associated fairness concerns. Initially, our
-experiments confirmed the unfairness’s presence. Subsequently, by
-addressing the issue from two perspectives, we gained valuable
-insights, which deepened our understanding of the problem. To
-assess a model’s fairness, it’s crucial to evaluate it from various perspectives, as relying on a single metric can often yield misleading
-results.
+abstract: Medical image reconstruction plays a pivotal role in early cancer detection, which can significantly enhance both the quality and longevity of a patient’s life through timely treatment. However, the extent to which current image reconstruction methods accurately represent all populations, and whether they underperform for certain groups, remains largely unexplored. In this work, we will examine the deep learning (DL)–based approach to image reconstruction and its associated fairness concerns. Initially, our experiments confirmed the unfairness’s presence. Subsequently, by addressing the issue from two perspectives, we gained valuable insights, which deepened our understanding of the problem. To assess a model’s fairness, it’s crucial to evaluate it from various perspectives, as relying on a single metric can often yield misleading results.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
