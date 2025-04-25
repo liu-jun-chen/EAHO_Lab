@@ -11,7 +11,7 @@ view: compact
 sections:
   - block: contact
     content:
-      title: Courses
+      title: News
       text: >
         **[2025.04]**: TPC member for ISLVLSI 2025, GLSVLSI 2025<br>
         2025.03: Join the University of South Florida (USF) in the Fall 2025
