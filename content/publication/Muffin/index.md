@@ -26,7 +26,7 @@ doi: '10.1109/DAC56929.2023.10247765'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['paper-conference']  # ['article] for preprint, ["article-journal"] for journel
 
 # Publication name and optional abbreviated publication name.
 publication: In *2023 60th ACM/IEEE Design Automation Conference*
