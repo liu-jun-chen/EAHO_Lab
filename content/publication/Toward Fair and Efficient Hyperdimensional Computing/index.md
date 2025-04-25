@@ -1,6 +1,5 @@
 ---
-title: 'Toward Fair Ultrasound Computing Tomography: Challenges,
-Solutions and Outlook'
+title: 'Toward Fair and Efficient Hyperdimensional Computing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,17 +7,17 @@ Solutions and Outlook'
 authors:
   - Sheng,Yi
   - Junhuan Yang
-  - Youzuo Lin
   - Weiwen Jiang
   - Lei Yang
+
 
 # # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-06-12T00:00:00Z'
-# doi: ''
+date: '2023-01-31T00:00:00Z'
+# doi: '10.1109/DAC56929.2023.10247765'
 
 # # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -29,10 +28,10 @@ date: '2024-06-12T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the Great Lakes Symposium on VLSI 2024*
-publication_short: In *GLSVLSI ’24*
+publication: In *Proceedings of the 28th Asia and South Pacific Design Automation Conference 2023*
+publication_short: In *ASP-DAC 2023*
 
-abstract: Medical image reconstruction plays a pivotal role in early cancer detection, which can significantly enhance both the quality and longevity of a patient’s life through timely treatment. However, the extent to which current image reconstruction methods accurately represent all populations, and whether they underperform for certain groups, remains largely unexplored. In this work, we will examine the deep learning (DL)–based approach to image reconstruction and its associated fairness concerns. Initially, our experiments confirmed the unfairness’s presence. Subsequently, by addressing the issue from two perspectives, we gained valuable insights, which deepened our understanding of the problem. To assess a model’s fairness, it’s crucial to evaluate it from various perspectives, as relying on a single metric can often yield misleading results.
+abstract: We are witnessing the evolution that Machine Learning (ML) is applied to varied applications, such as intelligent security systems, medical diagnoses, etc. With this trend, it has high demand to run ML on end devices with limited resources. What's more, the fairness in these ML algorithms is mounting important, since these applications are not designed for specific users (e.g., people with fair skin in skin disease diagnosis) but need to be applied to all possible users (i.e., people with different skin tones). Brain-inspired hyperdimensional computing (HDC) has demonstrated its ability to run ML tasks on edge devices with a small memory footprint; yet, it is unknown whether HDC can satisfy the fairness requirements from applications (e.g., medical diagnosis for people with different skin tones). In this paper, for the first time, we reveal that the vanilla HDC has severe bias due to its sensitivity to color information. Toward a fair and efficient HDC, we propose a holistic framework, namely FE-HDC, which integrates the image processing and input compression techniques in HDC's encoder. Compared with the vanilla HDC, results show that the proposed FE-HDC can reduce the unfairness score by 90%, achieving fairer architectures with competitively high accuracy.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3649476.3660387'
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3566097.3568357'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
