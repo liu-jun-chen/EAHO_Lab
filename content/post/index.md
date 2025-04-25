@@ -1,8 +1,9 @@
 ---
 title: News
 
-# Listing view
-view: compact
+# # Listing view
+# view: compact
+type: landing
 
 # # Optional banner image (relative to `assets/media/` folder).
 # banner:
